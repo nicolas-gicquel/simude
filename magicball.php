@@ -32,5 +32,9 @@
         
         echo $predictions[$hasard];
     ?>
+
+    <br>
+    <br>
+    <br>
 </body>
 </html>
